@@ -29,11 +29,11 @@
 <img src="https://img.icons8.com/color/24/000000/rocket.png" width="20"/>
   </p>
     <!-- GitHub -->
-    <a href="https://github.com/MustafaElshemiy/Get_Course.git" target="_blank">
+    <a href="https://github.com/MustafaElshemiy" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <a href="https://www.linkedin.com/in/mostafa-elshemiy-5b8969275/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- YouTube -->
@@ -41,31 +41,31 @@
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- WhatsApp -->
-    <a href="https://wa.me/yourphonenumber" target="_blank">
+    <a href="https://wa.me/01025814195" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- Telegram -->
-    <a href="https://t.me/yourusername" target="_blank">
+    <a href="https://t.me/eldon81" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- Instagram -->
-    <a href="https://instagram.com/yourusername" target="_blank">
+    <a href="https://www.instagram.com/mustafa814195/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- TikTok -->
-    <a href="https://tiktok.com/@yourusername" target="_blank">
+    <a href="https://www.tiktok.com/@mustafaelshemiy11?is_from_webapp=1&sender_device=pc" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- Facebook -->
-    <a href="https://facebook.com/yourusername" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100085436032025" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- Website -->
-    <a href="https://yourwebsite.com" target="_blank">
+    <a href="https://shop.first.emad-host.com/" target="_blank">
       <img src="https://img.shields.io/badge/Website-4FC3F7?style=for-the-badge&logo=google-chrome&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
     <!-- Gmail -->
-    <a href="mailto:youremail@gmail.com" target="_blank">
+    <a href="mailto:mostafaelshemiy54@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 10px; transition: all 0.3s; margin: 0 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 10px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
     </a>
 </p>  
